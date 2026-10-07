@@ -2,7 +2,7 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
 
-## Yanan's branch
+## Yanan's branch1 - 2nd try
 
 This synthetic repository supports two workshops:
 
